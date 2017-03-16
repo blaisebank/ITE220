@@ -1,0 +1,35 @@
+.main {
+
+background: url(../images/dbackground.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+color: white;
+padding: 40px;
+margin: 0 auto;
+margin-top: 20px;
+}
+.my{
+
+background: url(../images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ font-color: white;
+ font-style: italic;
+ text-align: center;
+ font-size: 20px;
+ font-color:no-repeat;
+}
+
+.me{
+	text-align: center;
+}
+.circle{
+	border-top-left-radius: 50% 50%;
+  border-top-right-radius: 50% 50%;
+  border-bottom-right-radius: 50% 50%;
+  border-bottom-left-radius: 50% 50%;
+}
